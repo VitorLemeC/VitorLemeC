@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá, me chamo Vitor Leme Corrêa, tenho 21 anos e moro em Jaguariúna-SP. Concluí o ensino médio em 2021, mesmo ano em que dei início ao meu curso técnico no Senai de Desenvolvimento de Sistemas, me formando no ano seguinte.
-Ainda não dei início a nenhum curso de nível superior, mas pretendo iniciar ainda no começo deste ano.
+Ainda não dei início a nenhum curso de nível superior, mas pretendo iniciar ainda no começo deste ano em um curso voltado para aréa de TI.
 
 <p>
     <a href="https://www.instagram.com/vitorleme_c/"> 
