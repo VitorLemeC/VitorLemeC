@@ -114,6 +114,6 @@ Ainda não dei início a nenhum curso de nível superior, mas pretendo iniciar a
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorLemeC&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" height="180" alt="GitHub Stats" style="padding-right: 10px;" />
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorLemeC&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=8" height="180" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorLemeC&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" height="140" alt="GitHub Stats" style="padding-right: 10px;" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorLemeC&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=8" height="140" alt="Top Languages" />
 </p>
